@@ -1,28 +1,17 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*HELLO!!!*
+_this is the output of instruction following as illustrate in chapter 2_
 
-Things you may want to cover:
+*in this chapter i review that*
+	. create rails new project
+	. initializing git
+	. create new Repository
+	. and deploying our app
+and learn that
+	.how to create a new database
+	.how the MVC working
+	. the ability to form associations between different data models
+	.Inheritance hierarchies
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[*here*](http://section2output.herokuapp.com/) is Herokuapp page of this output. It should be noted that "agile-gorge-643" was its first name in herokuapp.
